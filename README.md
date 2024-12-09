@@ -2,7 +2,6 @@
 
 ### Automation Test Engineer  
 📧 **Email:** ranjitvadar19@gmail.com  
-📞 **Mobile:** 9309864186  
 
 ---
 
@@ -35,24 +34,7 @@ With 3.5+ years of experience in software testing and quality assurance across t
 ## **Education**
 - **BTech**: Walchand College of Engineering, Sangli.  
 - **Diploma**: Government Polytechnic, Kolhapur.
-
----
-
-## **Experience**
-
-### **1. Accelya Solutions India Limited**  
-**Role**: Automation Test Engineer  
-**Period**: Dec 2023 – Present  
-**Project**: Revenue Assurance - Mozart  
-- Leading automation testing initiatives with a focus on high-quality software delivery.
-
-### **2. NeoSoft Technologies**  
-**Role**: Automation Test Engineer  
-**Period**: Apr 2021 – Dec 2023  
-**Project**: Equiti  
-- Designed and implemented Selenium Web Automation frameworks using POM.
-- Developed automated test scripts for database validations, API testing, and UI functionality.
-
+  
 ---
 
 ## **Key Responsibilities**
@@ -71,5 +53,4 @@ With 3.5+ years of experience in software testing and quality assurance across t
 ---
 
 **For more details, contact me at:**
-📧 **Email**: ranjitvadar19@gmail.com  
-📞 **Mobile**: 9309864186  
+📧 **Email**: ranjitvadar19@gmail.com   
